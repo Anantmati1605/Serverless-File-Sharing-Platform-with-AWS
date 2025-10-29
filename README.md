@@ -20,7 +20,7 @@ The system is built entirely on AWS serverless services:
 Users interact with the platform using any HTTP client (e.g., Postman, curl, browser-based apps).
 
 [Architecture Diagram]
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5120fc57-31e1-4d7e-81d6-e9b078db6bc9" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/637def4f-8ca3-40c6-a858-c58c5f432806" />
 
 ---
 
